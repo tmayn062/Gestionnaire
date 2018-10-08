@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gestionnaire</string>
+    <string name="set_logo">SET LOGO</string>
+    <string name="logo1">logo1</string>
+    <string name="beer">beer</string>
+    <string name="cherry">cherry</string>
+    <string name="cookies">cookies</string>
+    <string name="can">can</string>
+    <string name="coconut">coconut</string>
+    <string name="select_a_new_picture">Select a new picture</string>
+    <string name="load_from_phone">load from phone</string>
+</resources>
